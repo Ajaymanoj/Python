@@ -3,7 +3,7 @@
 1. All the codes are commented.
 2. Uncomment required code under each topic and run.
 3. All codes have topic for easy understanding.
-4. Need to copy both python file.
+4. Need to copy both python file for inheritance code to work.
 
 # Basics of Python : Topics covered in this file are,
 1. Operators
